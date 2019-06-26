@@ -1,6 +1,6 @@
-# Todo List
+# Starting template
 
-This project was created specifically to learn how to work better with the [react](https://en.reactjs.org/).
+This is the starting template for creating the application react where everything is configured.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -40,7 +40,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Built With
 
 - [react](https://en.reactjs.org/) - The web framework used
-- [bootstrap](https://getbootstrap.com/) - Dependency Management
 
 ## Authors
 
